@@ -15,69 +15,29 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 [https://talk-a-tive.herokuapp.com/](https://talk-a-tive-7fgq.onrender.com)
 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
-## Run Locally
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Main_chat_window.jpg)
 
-Clone the project
-
-```bash
-  git clone https://github.com/piyush-eon/mern-chat-app
-```
-
-Go to the project directory
-
-```bash
-  cd mern-chat-app
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-```bash
-  cd frontend/
-  npm install
-```
-
-Start the server
-
-```bash
-  npm run start
-```
-Start the Client
-
-```bash
-  //open now terminal
-  cd frontend
-  npm start
-```
-
-  
 # Features
 
 ### Authenticaton
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/login.PNG)
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/signup.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Login_screen.jpg)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Signup_screen.jpg)
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/MainScreen.jpg)
 ### Search Users
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/search%20user.jpg)
 ### Create Group Chats
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/new%20grp.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/NewGroup.jpg)
 ### Notifications 
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Notification.jpg)
 ### Add or Remove users from group
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Update_Group.jpg)
 ### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Profile.jpg)
 ## Made By
 
 - [@Apoorv-16](https://github.com/Apoorv-16)
-// Github Link
-//https://github.com/Apoorv-16/Talk-A-Tive
 
   

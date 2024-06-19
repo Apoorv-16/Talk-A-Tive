@@ -3,7 +3,7 @@
 .App{
     min-height: 100vh;
     display: flex;
-    
+    background-image: url('./Locks.png');
     background-position: center;
     background-size:cover;
 }
@@ -21,6 +21,7 @@
     background-color: #555;
  }
 
- .Homepage{
+ /* .Homepage{
     background-image: url('./Locks.png');
- }
+    width: 100%;
+ } */

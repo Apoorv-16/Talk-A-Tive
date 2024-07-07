@@ -23,7 +23,7 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Login_screen.jpg)
 ![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Signup_screen.jpg)
 ### Real Time Chatting with Typing indicators
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
+![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/Real_time_Chat_indicator.png)
 ### One to One chat
 ![](https://github.com/Apoorv-16/Talk-A-Tive/blob/main/screenshots/MainScreen.jpg)
 ### Search Users
